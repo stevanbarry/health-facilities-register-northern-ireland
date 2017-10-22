@@ -1,4 +1,4 @@
-# ni-health-facilities-register
+# general-practitioners-register-northern-ireland
 Open register for all health facilities within Northern Ireland free to use.<br>
 Data will be updated every 3-4 months or feel free to commit if you find anything outdated.
 Shared at @ODcamp 5 to make better.<br>
