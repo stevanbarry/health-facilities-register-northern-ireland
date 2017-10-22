@@ -7,4 +7,6 @@ GPs in Scotland - http://www.isdscotland.org/Health-Topics/General-Practice/Work
 GPs in England - https://digital.nhs.uk/media/372/epraccur/zip/epraccur<br>
 GPs in Ireland - https://data.gov.ie/dataset/list-of-general-practices<br>
 
-Discussion at @ODcamp 5 about why we need open registers was beautifully summarised here - https://docs.google.com/presentation/d/1ev4ZENutkaPTDY6xud6hVY0odxqxJ6WQs42zbzXpl2Q/edit?usp=sharing
+Discussion at @ODcamp 5 about why we need open registers was summarised here - 
+
+<br>https://docs.google.com/presentation/d/1ev4ZENutkaPTDY6xud6hVY0odxqxJ6WQs42zbzXpl2Q/edit?usp=sharing
